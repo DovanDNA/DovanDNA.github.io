@@ -11,7 +11,7 @@
 	margin: 0px auto;
 	overflow: hidden;
 	background: transparent url(../images/slider_bg.jpg) repeat 0% 0%;
-	box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -1px 4px #32AC9D;
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -1px 4px #171717;
 	-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -1px 4px #32AC9D;
 	-moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -1px 4px #32AC9D;
 	-o-box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -1px 4px #32AC9D;
