@@ -42,8 +42,7 @@ body {
 	width:80%;
 }
 .header_bg{
-	color: #EDEDED;
-	background: #ffffff;
+	background: #EDEDED;
 }
 .header{
 	padding: 2%;
@@ -219,8 +218,7 @@ body {
 }
 /* header_btm */
 .header_btm{
-	color: #444444;
-	background: #444444;
+	background: #DA0037;
 }
 .header_sub{
 	padding: 0 2%;
